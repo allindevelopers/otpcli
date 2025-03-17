@@ -11,9 +11,11 @@
 	"license": "ISC",
 	"description": "",
 	"dependencies": {
-		"@allindevelopers/prettier-config": "^1.0.0",
-		"otplib": "^12.0.1",
-		"prettier": "^3.5.3"
+		"otplib": "^12.0.1"
 	},
-	"prettier": "@allindevelopers/prettier-config"
+	"prettier": "@allindevelopers/prettier-config",
+	"devDependencies": {
+		"@allindevelopers/prettier-config": "^1.0.0",
+		"prettier": "^3.5.3"
+	}
 }
