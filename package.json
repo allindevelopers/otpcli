@@ -27,5 +27,8 @@
 	"devDependencies": {
 		"@allindevelopers/prettier-config": "^1.0.0",
 		"prettier": "^3.5.3"
-	}
+	},
+	"files": [
+		"otpcli.js"
+	]
 }
